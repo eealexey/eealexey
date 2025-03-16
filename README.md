@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I am currently working on an open source library for a pocket filter of various tasks in the Python <br>👯 I am looking for collaboration on projects related to ML in battery state detection tasks (SoC and SoH)<br>🤝 Assistance in constructing a structure in machine learning<br>
+👋 Hi there! My name is Alexey Druzhinin.  
+🎓 I am a student at the Moscow Institute of Physics and Technology (MIPT) and am actively engaged in research and development in the field of modern technologies.  
+🔋 At the Institute of Electrodynamics, I work on developing algorithms for estimating the State of Charge (SoC) and State of Health (SoH) of lithium-ion batteries. My research is based on methods such as the Kalman Filter and Machine Learning (ML).  
+📊 I am also conducting research at the Yandex School of Data Analysis and ITMO University in St. Petersburg.  
+💻 Currently, I am working on an OpenSource library focused on battery parameterization and the implementation of various modifications of the Kalman Filter.  
+⚖️ Additionally, I am the developer of the first Russian benchmark for machine learning models in the field of copyright law.  
+
+I am always open to collaboration and knowledge exchange!  
 
 
 ## 🌐 Socials:
